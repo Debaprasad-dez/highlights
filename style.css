@@ -31,7 +31,7 @@ h1 {
   font-size: 3vh;
   color: snow;
   transform: translateY(23vh);
-  background-image: url(opx.jpg);
+  background-image: url(opx2.png);
   padding-bottom: 10vh;
   padding-top: 10vh;
   background-size: cover;
@@ -775,7 +775,7 @@ header {
     margin: -30vw;
   }
   #opc01 {
-    transform: scale(0.35) translateX(-40vw) translateY(-170vh);
+    transform: scale(0.35) translateX(-30vw) translateY(-170vh);
     margin-bottom: -30rem;
     z-index: 0;
   }
@@ -791,7 +791,7 @@ header {
   }
   #nav1-cta2 {
     display: inline-block;
-    transform: translateX(0vw) translateY(21vh);
+    transform: translateX(0vw) translateY(19vh);
     text-decoration: none;
     width: 100vw;
     height: 20vh;
@@ -822,7 +822,7 @@ header {
     color: white;
     text-align: center;
     font-size: 17vw;
-    transform: translateY(65vh);
+    transform: translateY(55vh);
   }
 
   #bg2img {
@@ -1037,12 +1037,12 @@ header {
     transform: translateX(-20vw) translateY(2vh);
   }
   #s2h31fb {
-    transform: translateY(-26vh) translateX(5vw);
+    transform: translateY(-24vh) translateX(5vw);
     color: rgb(255, 255, 255);
     font-size: 2.5vh;
   }
   #s2h41fb {
-    transform: translateY(-30vh) translateX(5vw);
+    transform: translateY(-28vh) translateX(5vw);
     color: rgb(255, 255, 255);
     width: 85vw;
     font-size: 2.5vh;
@@ -1146,7 +1146,7 @@ header {
     font-size: 3vh;
     color: snow;
     transform: translateY(17.5vh);
-    background-image: url(opx.jpg);
+    background-image: url(opx2.png);
     padding: 5vh;
     background-size: cover;
   }
@@ -1154,7 +1154,13 @@ header {
     color: white;
     text-align: center;
     font-size: 5vw;
-    transform: translateY(-23vh);
+    transform: translateY(-20vh);
     margin-bottom: -20vh;
+  }
+  #s2h31x {
+    transform: translateY(-18vh) translateX(5vw);
+    color: rgb(255, 255, 255);
+    font-size: 3.5vh;
+    width: 80vw;
   }
 }
