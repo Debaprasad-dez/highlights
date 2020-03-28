@@ -775,7 +775,7 @@ header {
     margin: -30vw;
   }
   #opc01 {
-    transform: scale(0.35) translateX(-30vw) translateY(-170vh);
+    transform: scale(0.35) translateX(-20vw) translateY(-170vh);
     margin-bottom: -30rem;
     z-index: 0;
   }
