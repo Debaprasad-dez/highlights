@@ -682,69 +682,8 @@ header {
   display: block;
   text-align: right;
 }
-#nav1-cta3 {
-  display: inline-block;
-  transform: translateX(0em);
-  text-decoration: none;
-}
-#nav1-cta3 h2 {
-  color: rgb(0, 0, 0);
-  padding: 0.8rem;
-  text-decoration: none;
-  border-radius: 5px;
-  font-size: 1.3rem;
-  background: linear-gradient(
-    to right,
-    rgb(255, 0, 0) 50%,
-    rgb(0, 255, 115) 50%
-  );
-  background-size: 200% 100%;
-  background-position: right bottom;
-  transition: all 0.5s ease-out;
-}
-#nav1-cta3 h2:hover {
-  color: rgb(255, 255, 255);
-  background-position: left bottom;
-}
-#nav1-cta:hover {
-  background: red;
-  color: white;
-}
-.scrolling-active {
-  background-color: #fff;
-  box-shadow: 0 3px 1rem rgba(0, 0, 0, 0.1);
-}
 
-.scrolling-active .nav1 {
-  height: 6.6rem;
-}
-
-.scrolling-active .nav1 a {
-  color: #363736;
-}
-
-.scrolling-active .nav1 a:hover {
-  color: #151515;
-}
-
-.scrolling-active #nav1-cta {
-  background-color: #313131;
-  color: white;
-}
-
-.scrolling-active #nav1-cta:hover {
-  background: linear-gradient(
-    45deg,
-    #405de6,
-    #5851db,
-    #833ab4,
-    #c13584,
-    #e1306c,
-    #fd1d1d
-  );
-  color: white;
-}
-@media screen and (max-width:768px/1140px/700px/460px){
+@media screen and (max-width:768px,1140px){
   .nav1 .logo {
     font-size: 1rem;
   }
