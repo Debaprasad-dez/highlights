@@ -683,7 +683,7 @@ header {
   text-align: right;
 }
 
-@media screen and (max-width:768px,1140px){
+@media screen and (max-width:768px){
   .nav1 .logo {
     font-size: 1rem;
   }
