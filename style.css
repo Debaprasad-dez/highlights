@@ -744,7 +744,7 @@ header {
   );
   color: white;
 }
-@media screen and (max-width:768/1140/700/460){
+@media screen and (max-width:768px/1140px/700px/460px){
   .nav1 .logo {
     font-size: 1rem;
   }
